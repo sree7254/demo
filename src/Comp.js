@@ -11,7 +11,7 @@ export default function comp({name}){
 
     return(
         <div className={styles.hyd}>
-            <h1 onClick={handle} >component</h1>
+            <h1 onClick={handle} >componenthfavudtfiauyfdiayf</h1>
             <h1>{name}</h1>
         </div>
     )
